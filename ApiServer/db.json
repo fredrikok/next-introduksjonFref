@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "email": "fredriok@hiof.no",
+      "password": "fredriok@hiof.no",
+      "id": 1
+    },
+    {
+      "email": "JohnDoe@gmail.com",
+      "password": "iLikeDragonTurtles666",
+      "id": 2
+    },
+    {
+      "email": "dancingmonkey23@live.action.com",
+      "password": "Jumpman42",
+      "id": 3
+    },
+    {
+      "email": "dogsarecute@doggo.com",
+      "password": "catsarealsocute",
+      "id": 4
+    },
+    {
+      "email": "annam.meum@hotmail.com",
+      "password": "heidu",
+      "id": 5
+    },
+    {
+      "email": "marielle@alphamale.com",
+      "password": "123",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
